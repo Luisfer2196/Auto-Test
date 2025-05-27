@@ -16,7 +16,7 @@ public class AmazonPage extends BasePage{
 
     public void navigateTo(){
         navigateTo("https://www.amazon.com/");
-        //test
+        //test123
     }
 
     public void clickOnSearchButton(){
